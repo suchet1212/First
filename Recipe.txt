@@ -4,7 +4,9 @@ pizza
 pasta
 fries
 
-chicken fry 
+chicken fry
+beans
+toast
 
 
 thank you!
